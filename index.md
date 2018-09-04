@@ -1,4 +1,12 @@
-## Nancy's first CS193 Lab
+# Nancy's first CS193 Lab
+
+- It's just once a week
+- My instructors are nice
+- It is fun
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
